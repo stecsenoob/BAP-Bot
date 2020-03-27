@@ -1,1 +1,1 @@
-worker: node BAP Bot.py
+worker: python BAP Bot.py
